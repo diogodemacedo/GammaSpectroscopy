@@ -1,2 +1,1 @@
-# GammaSpectroscopy
-Miscellaneous data files for my nuclear physics lab course
+This repository is a collection of data I used in a nuclear physics laboratory exercise, with the goal to measure the binding energy of a deuteron atom. The .lst files correspond to the different gamma spectra measured, namely for the neutron sources used, Cesium-137, sodium-22, and cobalt-60. The python file is a linear regression script I wrrote to calculate/plot the calibration curve. You can find the final lab report here: [add link].
